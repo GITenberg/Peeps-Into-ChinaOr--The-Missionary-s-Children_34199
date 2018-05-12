@@ -1,0 +1,31 @@
+_repo: Peeps-Into-ChinaOr--The-Missionary-s-Children_34199
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34199-h/images/back_cover.jpg
+creator:
+  author:
+    agent_name: Phillips, E. C. (Edith Caroline)
+    aliases:
+    - Looker, Mrs. Horace B.
+    - Phillips, Eliza Caroline
+    - Looker, Edith C. Phillips (Edith Caroline Phillips)
+    - Phillips, Edith Caroline
+    gutenberg_agent_id: '36862'
+    url: http://www.gutenberg.org/2009/agents/36862
+description: ''
+gutenberg_issued: '2010-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34199'
+  lccn: '01013217'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- Social life and customs'
+- !lcsh 'China -- Description and travel'
+- !lcc 'DS'
+title: Peeps Into China; Or, The Missionary's Children
+url: http://www.gutenberg.org/ebooks/34199
